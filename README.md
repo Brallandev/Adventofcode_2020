@@ -1,1 +1,1 @@
-# Algorithm Resolving Problems
+# Algorithms Resolving Problems
